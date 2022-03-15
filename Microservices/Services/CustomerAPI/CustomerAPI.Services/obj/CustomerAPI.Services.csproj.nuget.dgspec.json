@@ -1,0 +1,344 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Services\\CustomerAPI.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\CoreLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\CoreLayer.csproj",
+        "projectName": "CoreLayer",
+        "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj",
+        "projectName": "CustomerAPI.Infrastructure",
+        "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\CoreLayer.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\Core\\CoreLayer\\CoreLayer.csproj"
+              },
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj",
+        "projectName": "CustomerAPI.Models",
+        "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Services\\CustomerAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Services\\CustomerAPI.Services.csproj",
+        "projectName": "CustomerAPI.Services",
+        "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Services\\CustomerAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj"
+              },
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\CustomerDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\CustomerDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\CustomerDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\CustomerDataAccess.csproj",
+        "projectName": "CustomerDataAccess",
+        "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\CustomerDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Merve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Infrastructure\\CustomerAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Merve\\Desktop\\TesodevBackend\\TesodevBackend\\Services\\CustomerAPI\\CustomerAPI.Models\\CustomerAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

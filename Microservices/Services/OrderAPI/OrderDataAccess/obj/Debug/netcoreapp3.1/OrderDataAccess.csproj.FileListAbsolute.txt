@@ -1,0 +1,16 @@
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderDataAccess.deps.json
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderDataAccess.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderDataAccess.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\CoreLayer.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderAPI.Infrastructure.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderAPI.Models.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderAPI.Infrastructure.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\OrderAPI.Models.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\bin\Debug\netcoreapp3.1\CoreLayer.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.csprojAssemblyReference.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.AssemblyInfo.cs
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.csproj.CopyComplete
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderDataAccess\obj\Debug\netcoreapp3.1\OrderDataAccess.pdb

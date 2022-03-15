@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\OrderAPI.Infrastructure.deps.json
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\OrderAPI.Infrastructure.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\OrderAPI.Infrastructure.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\CoreLayer.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\OrderAPI.Models.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\CoreLayer.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\bin\Debug\netcoreapp3.1\OrderAPI.Models.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\OrderAPI\OrderAPI.Infrastructure\obj\Debug\netcoreapp3.1\OrderAPI.Infrastructure.pdb

@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.deps.json
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CustomerAPI.Models.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CustomerAPI.Models.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\obj\Debug\netcoreapp3.1\CustomerAPI.Infrastructure.pdb
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CoreLayer.dll
+C:\Users\Merve\Desktop\TesodevBackend\TesodevBackend\Services\CustomerAPI\CustomerAPI.Infrastructure\bin\Debug\netcoreapp3.1\CoreLayer.pdb

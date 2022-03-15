@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerAPI.Infrastructure\CustomerAPI.Infrastructure.csproj" />
+    <ProjectReference Include="..\CustomerAPI.Models\CustomerAPI.Models.csproj" />
+    <ProjectReference Include="..\CustomerAPI.Services\CustomerAPI.Services.csproj" />
+    <ProjectReference Include="..\CustomerDataAccess\CustomerDataAccess.csproj" />
+  </ItemGroup>
+
+
+</Project>
